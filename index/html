@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Персональная страница</title>
+</head>
+<body>
+    <header>
+        <h1>Привет! 👋</h1>
+        <p>Это моя персональная страница-портфолио.</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>О себе</h2>
+            <p>Я исследую пересечение технологий и творчества: автоматизирую рутину, собираю мини-проекты и документирую процесс.</p>
+        </section>
+
+        <section>
+            <h2>Проекты</h2>
+            <ul>
+                <li><a href="#">Проект 1: описание и ссылка на репозиторий</a></li>
+                <li><a href="#">Проект 2: описание и ссылка на репозиторий</a></li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Контакты</h2>
+            <p>Предложения и замечания приветствуются через Issues или Pull Request.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Сайт размещён на GitHub Pages. Исходный код доступен в репозитории.</p>
+    </footer>
+</body>
+</html>
